@@ -1,4 +1,9 @@
-# challengeEncriptador
+<h1>Challenge Encriptador</h1>
+
+<h3><em>Trabajo practico que formo parte del curso dictado por Alura Latam. Creado en Visual Studio Code utilizando HTML, CSS y JavaScript</em></h3>
+
+<hr/>
+
 Sobre el challenge alura encriptador
 Vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
 
@@ -24,3 +29,7 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 El resultado debe ser mostrado en la pantalla.
 Extras:
 - Un botón que copie el texto encriptado/desencriptado para la sección de transferencia, o sea que tenga la misma funcionalidad del ctrl+C o de la opción "copiar" del menú de las aplicaciones.
+
+<br/>
+<p>Creador: Andres Mariano Fernández</p>
+<p>Año: 2022</p>
